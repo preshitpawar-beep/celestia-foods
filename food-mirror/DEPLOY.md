@@ -36,4 +36,4 @@ Firebase site you can't access.
   A working form can be wired up later (e.g. Formspree, or the nodemailer setup already
   in the engineering repo).
 - This is a frozen snapshot. To edit products/prices later, that's the "Option B"
-  clean rebuild we discussed.
+  clean rebuild we discussed
